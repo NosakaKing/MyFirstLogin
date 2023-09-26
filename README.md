@@ -1,6 +1,6 @@
 <h1 align="center">Login realizado en Java Netbeans, usando MSQL👋</h1>
 <p align="center">
-  <img src="https://i.imgur.com/50xo6ON.png">
+  <img src="https://i.imgur.com/FAJ4q8Y.png">
 </p>
 
 ## Acerca del proyecto
